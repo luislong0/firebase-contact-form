@@ -35,4 +35,4 @@ npm install
 npm run dev
 ```
 
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/luislong0/firebase-contact-form).
+Você pode acessar a aplicação clicando [aqui](https://spontaneous-kangaroo-5347be.netlify.app).
