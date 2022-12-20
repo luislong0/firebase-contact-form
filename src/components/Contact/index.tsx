@@ -80,7 +80,6 @@ export function Contact() {
           <input
             type="text"
             placeholder="Digite seu nome:"
-            required
             {...register('name')}
           />
           <FormErrorSpan
@@ -99,7 +98,6 @@ export function Contact() {
           <input
             type="email"
             placeholder="email@example.com"
-            required
             {...register('email')}
           />
           <FormErrorSpan
@@ -117,7 +115,6 @@ export function Contact() {
           /> */}
           <textarea
             placeholder="Digite a mensagem que você deseja enviar"
-            required
             {...register('content')}
           />
           <FormErrorSpan
